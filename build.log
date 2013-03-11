@@ -1,0 +1,139 @@
+Logfile initialized
+[INFO] logfile = /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build.log
+[DEBUG] /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/builder.py distribute Taksi24 /Applications/adt-bundle-mac/sdk /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24 com.softaktif.T724 /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Distribution/Taksi724 sa2013 Taksi724 /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Distribution 2
+[INFO] Titanium SDK version: 3.0.2 (02/15/13 19:02 5a77fe7)
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/ui/common/WebservisIslemleri.js => /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/bin/assets/Resources/ui/common/WebservisIslemleri.js
+[TRACE] COPYING MODIFIED FILE: /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/ui/handheld/android/ApplicationWindow.js => /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/bin/assets/Resources/ui/handheld/android/ApplicationWindow.js
+[TRACE] COPYING MODIFIED FILE: /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/ui/handheld/android/TaksiEkranlari/TaksiyeMesajView.js => /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/bin/assets/Resources/ui/handheld/android/TaksiEkranlari/TaksiyeMesajView.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] copying app icon: /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/AssetCryptImpl.java to javac build list
+[DEBUG] adding /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/R.java to javac build list
+[DEBUG] adding /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/Taksi24Activity.java to javac build list
+[DEBUG] adding /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/Taksi24AppInfo.java to javac build list
+[DEBUG] adding /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/Taksi24Application.java to javac build list
+[DEBUG] Building Java Sources: "/Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/AssetCryptImpl.java" "/Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/R.java" "/Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/Taksi24Activity.java" "/Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/Taksi24AppInfo.java" "/Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/gen/com/softaktif/T724/Taksi24Application.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/necroticsoul/Documents/Titanium_Studio_Workspace/Taksi24/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/database/veriler.db
+[DEBUG] from resource zip => assets/Resources/images/BUTT_yel_off.png
+[DEBUG] from resource zip => assets/Resources/images/BUTT_yel_on.png
+[DEBUG] from resource zip => assets/Resources/images/Ok-icon-hi.png
+[DEBUG] from resource zip => assets/Resources/images/adres.png
+[DEBUG] from resource zip => assets/Resources/images/anaekran.png
+[DEBUG] from resource zip => assets/Resources/images/ayarlar.png
+[DEBUG] from resource zip => assets/Resources/images/blue_dot_circle.png
+[DEBUG] from resource zip => assets/Resources/images/cikis.png
+[DEBUG] from resource zip => assets/Resources/images/cursor.png
+[DEBUG] from resource zip => assets/Resources/images/edit-10-256.png
+[DEBUG] from resource zip => assets/Resources/images/empty_round_icon_by_sidyseven-d4ylonu.png
+[DEBUG] from resource zip => assets/Resources/images/facebook.png
+[DEBUG] from resource zip => assets/Resources/images/favoriTaksi.png
+[DEBUG] from resource zip => assets/Resources/images/favoriler.png
+[DEBUG] from resource zip => assets/Resources/images/geri.png
+[DEBUG] from resource zip => assets/Resources/images/google.png
+[DEBUG] from resource zip => assets/Resources/images/hatabildir.png
+[DEBUG] from resource zip => assets/Resources/images/indicator.gif
+[DEBUG] from resource zip => assets/Resources/images/indicator.png
+[DEBUG] from resource zip => assets/Resources/images/iptal.png
+[DEBUG] from resource zip => assets/Resources/images/kayit.png
+[DEBUG] from resource zip => assets/Resources/images/konumum.png
+[DEBUG] from resource zip => assets/Resources/images/logo.png
+[DEBUG] from resource zip => assets/Resources/images/mail.png
+[DEBUG] from resource zip => assets/Resources/images/mesaj.png
+[DEBUG] from resource zip => assets/Resources/images/mesajgonder.png
+[DEBUG] from resource zip => assets/Resources/images/star.png
+[DEBUG] from resource zip => assets/Resources/images/star_half.png
+[DEBUG] from resource zip => assets/Resources/images/star_off.png
+[DEBUG] from resource zip => assets/Resources/images/taksi.png
+[DEBUG] from resource zip => assets/Resources/images/taksi724.png
+[DEBUG] from resource zip => assets/Resources/images/taksibul.png
+[DEBUG] from resource zip => assets/Resources/images/taksicagir.png
+[DEBUG] from resource zip => assets/Resources/images/taksiyemesaj.png
+[DEBUG] from resource zip => assets/Resources/images/taksiyiara.png
+[DEBUG] from resource zip => assets/Resources/images/tamam.png
+[DEBUG] from resource zip => assets/Resources/images/telefon.png
+[DEBUG] from resource zip => assets/Resources/images/twitter.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/close.png
+[DEBUG] from resource zip => res/drawable/facebook_login.png
+[DEBUG] from resource zip => res/drawable/facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/facebook_logout.png
+[DEBUG] from resource zip => res/drawable/facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/close.png
+[DEBUG] from resource zip => res/drawable-ldpi/close.png
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/modules/titanium-facebook.jar => ti/modules/titanium/facebook/LICENSE
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_64.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_64.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/necroticsoul/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] installing native SDK libs
